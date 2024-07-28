@@ -5,7 +5,8 @@ Track your ESO material farm, simply. Inspired from [Farming Party](https://gith
 
 # In Game Video
 SFT is displayed on top left. There are external addons can be seen in the video that do not belong to me.
-https://github.com/user-attachments/assets/04826bd5-9e7f-46d4-9481-101413039134
+
+https://github.com/user-attachments/assets/48810018-35f0-4041-8809-de7dc42b2646
 
 # Commands
 | Command                         | Description   |
