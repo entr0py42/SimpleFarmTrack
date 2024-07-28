@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/48810018-35f0-4041-8809-de7dc42b2646
 # Commands
 | Command                         | Description   |
 | :-------------------------------|:--------------|
-| `/startsfp`                     | Starts the timer and loot tracking
+| `/startsft`                     | Starts the timer and loot tracking
 | `/endsft`                       | Ends the process and log the results in the chat.
 | `/pausesft`                     | Pause the timer and loot tracking
 | `/resumesft`                    | Resume the timer and loot tracking
